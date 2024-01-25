@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/I2jEbbV' title='CodePath pre-work Website Walkthrough' width='' alt='CodePath pre-work Website Walkthrough' />
+<img src='website_walkthrough.gif' title='CodePath pre-work Website Walkthrough' width='' alt='CodePath pre-work Website Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
